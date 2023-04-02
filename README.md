@@ -1,1 +1,3 @@
-# C19-project
+# Pro-19-Infinite-Runner-Game
+
+# Suma Chandrasekhar
